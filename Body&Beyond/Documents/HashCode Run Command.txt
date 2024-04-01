@@ -1,0 +1,2 @@
+keytool -exportcert -alias androiddebugkey -keystore "%path%.android\debug.keystore" | "%path%\openssl-0.9.8k_X64\bin\openssl" sha1 -binary | "%path%\openssl-0.9.8k_X64\bin\openssl" base64
+      

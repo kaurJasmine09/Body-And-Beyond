@@ -1,0 +1,45 @@
+﻿Light,Cardio,Burpees - 15 rep,cardio_light_burpees
+Light,Cardio,Jumping Jacks - 15 rep,cardio_light_jump
+Light,Cardio,Mountain climbers - 15 rep,cardio_light_mountain
+Light,Yoga,Child's pose - 30 sec,yoga_light_child
+Light,Yoga,Downward-Facing Dog - 30 sec,yoga_light_dog
+Light,Yoga,Plank pose - 30 sec,yoga_light_plank
+Light,Weight training,Dumbbell chest fly - 15 rep,weight_light_chest_fly
+Light,Weight training,Single-leg squat - 15 rep,weight_light_single_leg_squat
+Light,Weight training,Dumbbell overhead triceps extension - 15 rep,weight_light_triceps
+Moderate,Cardio,Squat jumps - 15 rep,cardio_light_squat
+Moderate,Cardio,Inchworms - 15 rep,cardio_light_inchworms
+Moderate,Cardio,Burpees - 15 rep,cardio_light_burpees
+Moderate,Cardio,Jumping Jacks - 15 rep,cardio_light_jump
+Moderate,Cardio,Mountain climbers - 15 rep,cardio_light_mountain
+Moderate,Yoga,Cobra pose - 30 sec,yoga_light_cobra
+Moderate,Yoga,Tree pose - 30 sec,yoga_light_tree
+Moderate,Yoga,Child's pose - 30 sec,yoga_light_child
+Moderate,Yoga,Downward-Facing Dog - 30 sec,yoga_light_dog
+Moderate,Yoga,Plank pose - 30 sec,yoga_light_plank
+Moderate,Weight training,Push-ups - 15 rep,weight_light_pushups
+Moderate,Weight training,Dips - 15 rep,weight_light_dips
+Moderate,Weight training,Dumbbell chest fly - 15 rep,weight_light_chest_fly
+Moderate,Weight training,Single-leg squat - 15 rep,weight_light_single_leg_squat
+Moderate,Weight training,Dumbbell overhead triceps extension - 15 rep,weight_light_triceps
+Active,Cardio,Lateral Shuffles - 15 rep,cardio_light_shuffles
+Active,Cardio,Lunges - 15 rep,cardio_light_lunges
+Active,Cardio,Squat jumps - 15 rep,cardio_light_squat
+Active,Cardio,Inchworms - 15 rep,cardio_light_inchworms
+Active,Cardio,Burpees - 15 rep,cardio_light_burpees
+Active,Cardio,Jumping Jacks - 15 rep,cardio_light_jump
+Active,Cardio,Mountain climbers - 15 rep,cardio_light_mountain
+Active,Yoga,Camel pose - 30 sec,yoga_light_camel
+Active,Yoga,Triangle pose - 30 sec,yoga_light_triangle
+Active,Yoga,Cobra pose - 30 sec,yoga_light_cobra
+Active,Yoga,Tree pose - 30 sec,yoga_light_tree
+Active,Yoga,Child's pose - 30 sec,yoga_light_child
+Active,Yoga,Downward-Facing Dog - 30 sec,yoga_light_dog
+Active,Yoga,Plank pose - 30 sec,yoga_light_plank
+Active,Weight training,Deadlift - 15 rep,weight_light_deadlift
+Active,Weight training,Leg press - 15 rep,weight_light_leg_press
+Active,Weight training,Push-ups - 15 rep,weight_light_pushups
+Active,Weight training,Dips - 15 rep,weight_light_dips
+Active,Weight training,Dumbbell chest fly - 15 rep,weight_light_chest_fly
+Active,Weight training,Single-leg squat - 15 rep,weight_light_single_leg_squat
+Active,Weight training,Dumbbell overhead triceps extension - 15 rep,weight_light_triceps
